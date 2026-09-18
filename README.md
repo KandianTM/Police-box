@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦 Nexora Scripts — Police Loot Box
+# 📦 KG Scripts — Police Loot Box
 
 **A clean, optimized, and plug-and-play Police Armory Loot Box resource for FiveM.**  
 Built natively for **Qbox (`qbx_core`)** and **`ox_inventory`**.
@@ -220,5 +220,5 @@ Config.DiscordWebhook = {
 
 ## 📜 License & Credits
 
-- Developed by **Nexora Scripts**
+- Developed by **KG Scripts**
 - Free to modify and customize for your FiveM server.
